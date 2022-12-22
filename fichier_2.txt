@@ -1,1 +1,2 @@
-nouvelle ligne
+on test un conflict de fichier
+en 2 lignes
